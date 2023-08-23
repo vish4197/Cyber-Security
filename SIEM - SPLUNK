@@ -1,0 +1,11 @@
+I have made some progress in familiarizing myself with the SPLUNK tool. After spending a few hours studying and then working on the tool, I have acquired a comprehensive understanding of its capabilities, particularly in utilizing the search feature to pinpoint specific logs. Moreover, I have successfully created new dashboards with varying privileges, showcasing my proficiency in this area.
+
+To provide further insight, I have accomplished the following:
+
+Installed SPLUNK Enterprise on my local machine.
+       - Configured SPLUNK to monitor all event logs using the Windows Event Logs monitor feature.
+Conducted a controlled experiment involving a quick brute force attack on a Windows machine, simulating failed login attempts with random passwords.
+Captured and subsequently located these failed login events within SPLUNK using the search functionality.
+Taking this a step further, I curated the collected data from the failed login attempts attributed to the username "vishalsaproo" into a dedicated dashboard named "Failed Logins." The dashboard has been thoughtfully designed to present relevant information through organized columns, enhancing its accessibility and interpretability.
+
+I have prepared a comprehensive presentation that encapsulates the aforementioned actions, complete with screenshots illustrating each step of the process. Please find the attached PowerPoint presentation, which offers a visual depiction of my engagement with the SPLUNK tool.
