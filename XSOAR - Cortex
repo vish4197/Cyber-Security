@@ -20,6 +20,7 @@ Response and Mitigation: Based on the playbook, Cortex XSOAR initiates a series 
 These could include isolating the affected user account, alerting security personnel, and generating a detailed incident report.
 Notification and Reporting: Once the automated response is executed, the relevant stakeholders receive notifications regarding the incident. 
 A comprehensive report outlining the entire incident lifecycle, from detection to resolution, is generated and shared with the security team.
+
 By simulating such incidents and automating the response process, I gained hands-on experience with Cortex XSOAR's capabilities. 
 This practical approach allowed me to sharpen my incident handling skills, develop effective playbooks, and understand how security orchestration can streamline incident response workflows. 
 Through this example, I demonstrated my commitment to continuous learning and my ability to translate theoretical knowledge into tangible skills.
