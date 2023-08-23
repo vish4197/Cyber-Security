@@ -1,0 +1,25 @@
+Project Title: Setting Up Automated Incident Response with Cortex XSOAR
+
+Project Summary: In this project, I proactively undertook the task of learning and implementing Palo Alto Networks' Cortex XSOAR platform within a home environment. 
+My primary objective was to amplify my proficiency in automated incident response and security orchestration. 
+The project aimed to establish a simulated environment conducive to practicing practical incident handling, playbook creation, and automation techniques for real-world scenarios.
+
+Hands-On Example: To illustrate, one of the key components of the project involved setting up a mock security incident based on a common threat scenario, such as a phishing attack targeting user credentials. 
+I initiated this by crafting a fictitious phishing email with a malicious link and distributed it to a test email account. Upon receipt, I triggered an automated incident response within Cortex XSOAR.
+
+Here's a step-by-step breakdown of the hands-on example:
+Create a Phishing Email: Develop a realistic-looking phishing email, complete with an enticing subject line and content. 
+Embed a malicious link that directs to a mock phishing page.
+Trigger Incident Creation: Configure Cortex XSOAR to monitor incoming emails on a designated mailbox. 
+Set up a custom integration to detect and classify emails as potential phishing attempts based on keywords and characteristics.
+Incident Enrichment: Once the phishing email is detected, Cortex XSOAR automatically triggers an incident. 
+It gathers information from the email, enriching the incident with details like sender, subject, and the URL in question.
+Automated Playbook Execution: Design a playbook within Cortex XSOAR that outlines the steps to be taken in response to a potential phishing incident. 
+This may involve extracting URL details, conducting a threat analysis, and performing user impact assessment.
+Response and Mitigation: Based on the playbook, Cortex XSOAR initiates a series of predefined actions. 
+These could include isolating the affected user account, alerting security personnel, and generating a detailed incident report.
+Notification and Reporting: Once the automated response is executed, the relevant stakeholders receive notifications regarding the incident. 
+A comprehensive report outlining the entire incident lifecycle, from detection to resolution, is generated and shared with the security team.
+By simulating such incidents and automating the response process, I gained hands-on experience with Cortex XSOAR's capabilities. 
+This practical approach allowed me to sharpen my incident handling skills, develop effective playbooks, and understand how security orchestration can streamline incident response workflows. 
+Through this example, I demonstrated my commitment to continuous learning and my ability to translate theoretical knowledge into tangible skills.
