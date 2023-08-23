@@ -1,0 +1,25 @@
+Project Title: Home-Based Threat Detection and Prevention Project
+
+Project Summary: The objective of this project was to create a threat detection and prevention environment within the home network. 
+By implementing a range of security tools and techniques, I aimed to enhance my skills in identifying and mitigating various cyber threats commonly encountered in real-world scenarios.
+
+Hands-On Example: To demonstrate, I focused on building a threat detection and prevention scenario centered around network-based attacks, specifically targeting the exposure of sensitive data.
+
+Scenario: Unauthorized Access Attempt to Home Network
+
+Network Segmentation: I segmented my home network into different segments, including IoT devices, personal computers, and guest devices. This helped isolate potential threats and control their impact.
+Intrusion Detection System (IDS): I set up an open-source IDS like Snort on a dedicated Raspberry Pi within my network. This IDS continuously monitored network traffic for suspicious patterns or signatures associated with common attack techniques.
+Honeypot Deployment: I deployed a honeypot system within a separate network segment to lure potential attackers. The honeypot mimicked vulnerable services and recorded any attempts to interact with it.
+Security Information and Event Management (SIEM): I configured a SIEM tool, such as ELK Stack, to collect and analyze logs from various network devices and systems. This provided a centralized view of network activities and potential security incidents.
+Anomaly Detection: I implemented an anomaly detection solution that monitored network behavior and user activity. Any deviations from established baselines triggered alerts for further investigation.
+Firewall and Intrusion Prevention System (IPS): I deployed a firewall and IPS solution to block unauthorized access attempts and malicious traffic. The IPS actively prevented known attack patterns from reaching critical assets.
+Vulnerability Scanning: I periodically conducted vulnerability scans using open-source tools like OpenVAS to identify potential weaknesses in my network, systems, and devices.
+Continuous Monitoring: I used network monitoring tools like Wireshark to capture and analyze network traffic in real-time. This allowed me to identify abnormal patterns and potential threats.
+Results: Through this hands-on threat detection and prevention project, I was able to:
+Develop a deeper understanding of network-based threats and attack techniques.
+Gain practical experience in configuring and managing security tools, including IDS, SIEM, and firewalls.
+Identify and respond to simulated threats, enhancing incident response skills.
+Implement proactive measures to prevent unauthorized access and data exposure.
+Cultivate a security mindset focused on continuous monitoring and improvement.
+By simulating and preventing potential threats within a home environment, I demonstrated my commitment to cybersecurity learning and showcased my ability to apply theoretical knowledge to practical scenarios. 
+This project not only honed my technical skills but also highlighted my dedication to staying ahead in the ever-evolving field of threat detection and prevention.
